@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Full Stack Web Developer** (specializing in **React, Node.js and Blockchain Skills**)
+🎓 I am a **Full Stack Blockchain Developer** (specializing in **React, Node.js and Blockchain Skills**)
 I have a bachelor's degree in **Computer Science**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2019, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
@@ -19,6 +19,7 @@ I have a bachelor's degree in **Computer Science**.
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/ruby-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Golang](https://shields.io/badge/go-1.18.x-brightgreen.svg?style=flat-square")
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![c#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
 
