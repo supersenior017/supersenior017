@@ -95,11 +95,11 @@ Keep it cool, 😎
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
+<!-- 
 ## 📈 Stats
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=supersenior017&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="supersenior017" width="48%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=supersenior017&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="supersenior017" width="48%"/> 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=supersenior017&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=10&no-frame=true" alt="profile trophies" />
 <img width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=supersenior017&theme=algolia" alt="dreamboat999" />
@@ -115,3 +115,4 @@ Keep it cool, 😎
 </p>
 
 </p>
+-->
