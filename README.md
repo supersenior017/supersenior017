@@ -2,10 +2,17 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Full Stack Blockchain Developer** (specializing in **React, Node.js and Blockchain Skills**)
-I have a bachelor's degree in **Computer Science**.
+👨‍💻 "Hello, World!" I’m a full-stack blockchain developer with 6 years of experience under my belt. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 🚀
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2019, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
+As a tech wizard 🧙‍♂️, I'm passionate about the magic I create with ReactJS, GraphQL, and NodeJS. My spells have been known to craft secure decentralized systems and robust smart contracts. 
+
+When I'm not coding, I'm exploring new tech horizons or playing chess. 🌐♟️
+
+I believe honesty is the best policy, and my clients seem to agree! They say I excel at delivering innovative solutions that exceed expectations. But don't take their word for it, check out my work at https://my-personal-site-portfolio.web.app/ 🎯
+
+Let's connect and explore how my magic can fuel your organization's success. When's a good time for you? 📅
+
+Keep it cool, 😎
 <br>
 
 ## 🛠️ Skills
