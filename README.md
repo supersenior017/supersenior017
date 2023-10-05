@@ -8,7 +8,7 @@ As a tech wizard 🧙‍♂️, I'm passionate about the magic I create with Rea
 
 When I'm not coding, I'm exploring new tech horizons or playing chess. 🌐♟️
 
-I believe honesty is the best policy, and my clients seem to agree! They say I excel at delivering innovative solutions that exceed expectations. But don't take their word for it, check out my work at https://my-personal-site-portfolio.web.app/ 🎯
+I believe honesty is the best policy, and my clients seem to agree! They say I excel at delivering innovative solutions that exceed expectations. But don't take their word for it, check out my work at (https://my-personalsite.web.app/) 🎯
 
 Let's connect and explore how my magic can fuel your organization's success. When's a good time for you? 📅
 
